@@ -27,7 +27,7 @@ export const DEFAULT_ESTABLISHMENT: EstablishmentInfo = {
   allowsDelivery: true,
   allowsPickup: true,
   minOrderValue: 20.00,
-  coverUrl: "/src/assets/images/hero_espetinho_bbq_1792499628124.jpg",
+  coverUrl: "/images/hero_espetinho_bbq_1792499628124.jpg",
   logoUrl: ""
 };
 
