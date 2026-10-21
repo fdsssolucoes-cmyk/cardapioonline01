@@ -1,0 +1,8 @@
+{
+  "name": "Cardápio do Espetinho",
+  "description": "Cardápio digital profissional para espetinhos, bares e lanchonetes com pedidos diretos via WhatsApp e painel de configuração.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
