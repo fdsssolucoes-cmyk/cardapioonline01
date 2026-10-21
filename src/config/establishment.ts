@@ -51,7 +51,7 @@ export const DEFAULT_PRODUCTS: Product[] = [
     description: "Alcatra macia temperada na medida certa e grelhada no carvão. Acompanha farofa da casa.",
     price: 12.00,
     categoryId: "espetinhos-tradicionais",
-    imageUrl: "/src/assets/images/espetinho_picanha_1792499629843.jpg",
+    imageUrl: "/images/espetinho_picanha_1792499629843.jpg",
     available: true,
     isPopular: true,
     prepTime: "10 min"
@@ -62,7 +62,7 @@ export const DEFAULT_PRODUCTS: Product[] = [
     description: "Cubos suculentos de peito de frango envolvidos em fatias crocantes de bacon defumado.",
     price: 13.00,
     categoryId: "espetinhos-tradicionais",
-    imageUrl: "/src/assets/images/hero_espetinho_bbq_1792499628124.jpg",
+    imageUrl: "/images/hero_espetinho_bbq_1792499628124.jpg",
     available: true,
     isPopular: true,
     prepTime: "12 min"
@@ -73,7 +73,7 @@ export const DEFAULT_PRODUCTS: Product[] = [
     description: "Linguiça artesanal levemente apimentada, tostadinha por fora e muito suculenta.",
     price: 11.00,
     categoryId: "espetinhos-tradicionais",
-    imageUrl: "/src/assets/images/combo_familia_bbq_1792499631282.jpg",
+    imageUrl: "/images/combo_familia_bbq_1792499631282.jpg",
     available: true,
     prepTime: "10 min"
   },
@@ -83,7 +83,7 @@ export const DEFAULT_PRODUCTS: Product[] = [
     description: "Coraçõezinhos marinados em ervas finas e grelhados no ponto perfeito.",
     price: 12.50,
     categoryId: "espetinhos-tradicionais",
-    imageUrl: "/src/assets/images/hero_espetinho_bbq_1792499628124.jpg",
+    imageUrl: "/images/hero_espetinho_bbq_1792499628124.jpg",
     available: true,
     prepTime: "12 min"
   },
@@ -95,7 +95,7 @@ export const DEFAULT_PRODUCTS: Product[] = [
     description: "Cortes selecionados de picanha com capa de gordura dourada e sal grosso de parrilla.",
     price: 18.00,
     categoryId: "espetinhos-especiais",
-    imageUrl: "/src/assets/images/espetinho_picanha_1792499629843.jpg",
+    imageUrl: "/images/espetinho_picanha_1792499629843.jpg",
     available: true,
     isPopular: true,
     prepTime: "12 min"
@@ -106,7 +106,7 @@ export const DEFAULT_PRODUCTS: Product[] = [
     description: "Queijo coalho tostado com crostinha dourada, servido com melaço de cana e orégano.",
     price: 14.00,
     categoryId: "espetinhos-especiais",
-    imageUrl: "/src/assets/images/espetinho_queijo_1792499630224.jpg",
+    imageUrl: "/images/espetinho_queijo_1792499630224.jpg",
     available: true,
     isPopular: true,
     prepTime: "8 min"
@@ -117,7 +117,7 @@ export const DEFAULT_PRODUCTS: Product[] = [
     description: "Costela marinada por 12 horas, assada lentamente e finalizada no fogo alto.",
     price: 16.50,
     categoryId: "espetinhos-especiais",
-    imageUrl: "/src/assets/images/espetinho_picanha_1792499629843.jpg",
+    imageUrl: "/images/espetinho_picanha_1792499629843.jpg",
     available: true,
     prepTime: "10 min"
   },
@@ -127,7 +127,7 @@ export const DEFAULT_PRODUCTS: Product[] = [
     description: "Baguete recheada com pasta cremosa de alho poró, queijo mussarela e parmesão gratinado.",
     price: 10.00,
     categoryId: "espetinhos-especiais",
-    imageUrl: "/src/assets/images/combo_familia_bbq_1792499631282.jpg",
+    imageUrl: "/images/combo_familia_bbq_1792499631282.jpg",
     available: true,
     prepTime: "8 min"
   },
@@ -139,7 +139,7 @@ export const DEFAULT_PRODUCTS: Product[] = [
     description: "2 espetinhos à sua escolha (carne ou frango) + porção individual de farofa especial + vinagrete fresco.",
     price: 28.00,
     categoryId: "combos-individuais",
-    imageUrl: "/src/assets/images/combo_familia_bbq_1792499631282.jpg",
+    imageUrl: "/images/combo_familia_bbq_1792499631282.jpg",
     available: true,
     isPopular: true,
     prepTime: "15 min"
@@ -150,7 +150,7 @@ export const DEFAULT_PRODUCTS: Product[] = [
     description: "1 espeto de picanha + 1 espeto de queijo coalho + 1 pão de alho + vinagrete.",
     price: 36.00,
     categoryId: "combos-individuais",
-    imageUrl: "/src/assets/images/espetinho_picanha_1792499629843.jpg",
+    imageUrl: "/images/espetinho_picanha_1792499629843.jpg",
     available: true,
     prepTime: "15 min"
   },
@@ -162,7 +162,7 @@ export const DEFAULT_PRODUCTS: Product[] = [
     description: "4 espetinhos tradicionais à escolha + 1 pão de alho + mandioca frita + farofa e vinagrete.",
     price: 58.00,
     categoryId: "combos-duas-pessoas",
-    imageUrl: "/src/assets/images/combo_familia_bbq_1792499631282.jpg",
+    imageUrl: "/images/combo_familia_bbq_1792499631282.jpg",
     available: true,
     isPopular: true,
     prepTime: "20 min"
@@ -175,7 +175,7 @@ export const DEFAULT_PRODUCTS: Product[] = [
     description: "8 espetinhos variados + 2 pães de alho + porção grande de mandioca com bacon + farofa de cebola crocante + vinagrete.",
     price: 110.00,
     categoryId: "combos-familia",
-    imageUrl: "/src/assets/images/combo_familia_bbq_1792499631282.jpg",
+    imageUrl: "/images/combo_familia_bbq_1792499631282.jpg",
     available: true,
     isPopular: true,
     prepTime: "25 min"
@@ -188,7 +188,7 @@ export const DEFAULT_PRODUCTS: Product[] = [
     description: "Farinha de mandioca torradinha na manteiga de garrafa com pedacinhos crocantes de bacon.",
     price: 8.00,
     categoryId: "acompanhamentos",
-    imageUrl: "/src/assets/images/combo_familia_bbq_1792499631282.jpg",
+    imageUrl: "/images/combo_familia_bbq_1792499631282.jpg",
     available: true,
     prepTime: "5 min"
   },
@@ -198,7 +198,7 @@ export const DEFAULT_PRODUCTS: Product[] = [
     description: "Tomate fresco em cubos, cebola roxa, cheiro verde e azeite extravirgem.",
     price: 7.00,
     categoryId: "acompanhamentos",
-    imageUrl: "/src/assets/images/combo_familia_bbq_1792499631282.jpg",
+    imageUrl: "/images/combo_familia_bbq_1792499631282.jpg",
     available: true,
     prepTime: "5 min"
   },
@@ -210,7 +210,7 @@ export const DEFAULT_PRODUCTS: Product[] = [
     description: "Mandioca macia por dentro e ultra crocante por fora, coberta com bacon e cebolinha.",
     price: 26.00,
     categoryId: "porcoes",
-    imageUrl: "/src/assets/images/porcao_mandioca_1792499630291.jpg",
+    imageUrl: "/images/porcao_mandioca_1792499630291.jpg",
     available: true,
     isPopular: true,
     prepTime: "15 min"
@@ -221,7 +221,7 @@ export const DEFAULT_PRODUCTS: Product[] = [
     description: "Batatas cortadas em gomos rústicos, temperadas com sal grosso marinho, alecrim fresco e parmesão.",
     price: 24.00,
     categoryId: "porcoes",
-    imageUrl: "/src/assets/images/porcao_mandioca_1792499630291.jpg",
+    imageUrl: "/images/porcao_mandioca_1792499630291.jpg",
     available: true,
     prepTime: "15 min"
   },
@@ -265,7 +265,7 @@ export const DEFAULT_PRODUCTS: Product[] = [
     description: "Fatias de abacaxi grelhadas na brasa, caramelizadas com açúcar mascavo, canela e toque de mel.",
     price: 10.00,
     categoryId: "sobremesas",
-    imageUrl: "/src/assets/images/espetinho_queijo_1792499630224.jpg",
+    imageUrl: "/images/espetinho_queijo_1792499630224.jpg",
     available: true,
     prepTime: "8 min"
   },
